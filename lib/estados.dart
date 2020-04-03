@@ -1,0 +1,31 @@
+class Et {
+  static List estados = [
+    'sp',
+    'rj',
+    'ce',
+    'df',
+    'mg',
+    'rs',
+    'ba',
+    'pr',
+    'sc',
+    'am',
+    'es',
+    'pe',
+    'rn',
+    'go',
+    'ma',
+    'ms',
+    'pa',
+    'ac',
+    'mt',
+    'rr',
+    'se',
+    'pb',
+    'pi',
+    'al',
+    'to',
+    'ap',
+    'ro'
+  ];
+}
